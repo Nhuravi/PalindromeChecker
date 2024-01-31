@@ -36,6 +36,8 @@ Atau
 
 Contoh Demonstrasi:
 
-
+https://github.com/Nhuravi/PalindromeChecker/assets/157117745/d30525bb-fefc-41b2-a764-8674d1a6a025
 
 Dibuat oleh Nhuravi
+
+
