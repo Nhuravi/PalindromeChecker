@@ -1,6 +1,5 @@
-# IMDb Web Scraper
-
-Program Python ini mengambil data mengenai 250 film teratas dari IMDb dan memperbarui data yang ada pada database MySQL dengan judul dan peringkat film.
+# Palindrome Checker
+Program Java Untuk Mengecek Kata Atau Kalimat Palindrome
 
 ## Instalasi
 
